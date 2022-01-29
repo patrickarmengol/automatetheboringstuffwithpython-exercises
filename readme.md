@@ -1,1 +1,1 @@
-my implementation of exercises for "Automating the Boring Stuff with Python" - Al Sweigart
+my implementation of exercises for "Automate the Boring Stuff with Python" - Al Sweigart
