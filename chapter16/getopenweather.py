@@ -1,6 +1,6 @@
 import json, requests, sys
 
-APPID = '818c5272779ebe769f4ffc128993fd5f'
+APPID = '__FILLME__'
 
 if len(sys.argv) < 2:
     print('usage: getopenweather.py city_name country_code')
